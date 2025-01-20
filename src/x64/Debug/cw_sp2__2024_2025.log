@@ -1,0 +1,54 @@
+﻿  cw.cpp
+C:\Users\nazar\Desktop\politeh\cw_sp2__2024_2025-main\cw_sp2__2024_2025\cw.cpp(56,67): warning C4311: 'type cast': pointer truncation from 'HKL' to 'UINT'
+C:\Users\nazar\Desktop\politeh\cw_sp2__2024_2025-main\cw_sp2__2024_2025\cw.cpp(56,67): warning C4302: 'type cast': truncation from 'HKL' to 'UINT'
+  cli.cpp
+  add.cpp
+  and.cpp
+  bitwise_and.cpp
+  bitwise_not.cpp
+  bitwise_or.cpp
+  div.cpp
+  else.cpp
+  equal.cpp
+  for.cpp
+  generator.cpp
+C:\Users\nazar\Desktop\politeh\cw_sp2__2024_2025-main\cw_sp2__2024_2025\src\implementation\generator\generator.cpp(179,1): warning C4002: too many arguments for function-like macro invocation 'INIT_TOKEN_STRUCT_NAME'
+  goto_label.cpp
+  greater.cpp
+  greater_or_equal.cpp
+  if_then.cpp
+  input.cpp
+  less.cpp
+  less_or_equal.cpp
+  lrbind.cpp
+  Generating Code...
+  Compiling...
+  mod.cpp
+C:\Users\nazar\Desktop\politeh\cw_sp2__2024_2025-main\cw_sp2__2024_2025\src\implementation\generator\mod.cpp(45,47): warning C4476: 'sprintf' : unknown type field character '=' in format specifier
+  mul.cpp
+  not.cpp
+  not_equal.cpp
+  null_statement.cpp
+  operand.cpp
+  or.cpp
+  output.cpp
+  repeat_until.cpp
+  rlbind.cpp
+  semicolon.cpp
+  sub.cpp
+  while.cpp
+  lexica.cpp
+C:\Users\nazar\Desktop\politeh\cw_sp2__2024_2025-main\cw_sp2__2024_2025\src\implementation\lexica\lexica.cpp(189,26): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\nazar\Desktop\politeh\cw_sp2__2024_2025-main\cw_sp2__2024_2025\src\implementation\lexica\lexica.cpp(190,32): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\nazar\Desktop\politeh\cw_sp2__2024_2025-main\cw_sp2__2024_2025\src\implementation\lexica\lexica.cpp(191,33): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\nazar\Desktop\politeh\cw_sp2__2024_2025-main\cw_sp2__2024_2025\src\implementation\lexica\lexica.cpp(249,38): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+  preparer.cpp
+C:\Users\nazar\Desktop\politeh\cw_sp2__2024_2025-main\cw_sp2__2024_2025\src\implementation\preparer\preparer.cpp(188,39): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  semantix.cpp
+C:\Users\nazar\Desktop\politeh\cw_sp2__2024_2025-main\cw_sp2__2024_2025\src\implementation\semantix\semantix.cpp(130,32): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+  syntax.cpp
+C:\Users\nazar\Desktop\politeh\cw_sp2__2024_2025-main\cw_sp2__2024_2025\src\implementation\syntax\syntax.cpp(564,50): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\nazar\Desktop\politeh\cw_sp2__2024_2025-main\cw_sp2__2024_2025\src\implementation\syntax\syntax.cpp(591,50): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\nazar\Desktop\politeh\cw_sp2__2024_2025-main\cw_sp2__2024_2025\src\implementation\syntax\syntax.cpp(617,50): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+  cw_sp2__2024_2025.vcxproj -> C:\Users\nazar\Desktop\politeh\cw_sp2__2024_2025-main\x64\Debug\cw_sp2__2024_2025.exe
